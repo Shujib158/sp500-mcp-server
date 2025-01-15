@@ -1,0 +1,10 @@
+{
+  "name": "sp500-mcp-server",
+  "version": "0.1.0",
+  "description": "An MCP server and Next.js web app for querying S&P 500 company data from Supabase, with tools for company info, news, officers, and SEC filings, plus embedded MCP App UI resources, Elicitation, and Sampling support.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
